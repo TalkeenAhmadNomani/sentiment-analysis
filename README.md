@@ -66,7 +66,7 @@ Twitter empowers free speech, but this freedom is sometimes misused to spread ha
 - **Voting Ensemble** (Logistic Regression + Naive Bayes + SVM) chosen for deployment.  
 - Trained using **scikit-learn**.  
 - Vectorization with **CountVectorizer**.  
-- Exported using **joblib** for easy inference.
+
 
 ---
 
